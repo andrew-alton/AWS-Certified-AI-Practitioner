@@ -16,7 +16,7 @@
 - Security, Privacy, Governance and Responsible AI features
 
 <div align="center">
-<img src="images/image2.png"  width="10%">
+<img src="images/image2.png"  width="75%">
 </div>
 
 ## Amazon Bedrock – Foundation Models
@@ -24,7 +24,7 @@
 Access to a wide range of Foundation Models (FM)
 
 <div align="center">
-<img src="images/image3.png"  width="10%">
+<img src="images/image3.png"  width="75%">
 </div>
 
 Amazon Bedrock makes a copy of the FM, available only to you, which you can further fine-tune with your own data.
@@ -32,5 +32,5 @@ Amazon Bedrock makes a copy of the FM, available only to you, which you can furt
 None of your data is used to train the FM.
 
 <div align="center">
-<img src="images/image4.png"  width="10%">
+<img src="images/image4.png"  width="75%">
 </div>
